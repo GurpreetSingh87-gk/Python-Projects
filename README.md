@@ -24,13 +24,14 @@ The Calculator app is a simple console-based Python calculator that includes ari
 
 - **Loop-based menu**
 
----
 
 ## Technologies
 
 - 🐍 Python
 
+
 ---
+
 
 ## 2. 💵 Monthly Expense Tracker
 
@@ -46,7 +47,6 @@ Monthly Expense Tracker is a Python expense tracker that includes expense data a
 
 - **Total Expense Calculation**
 
----
 
 ## Technologies
 
@@ -54,7 +54,9 @@ Monthly Expense Tracker is a Python expense tracker that includes expense data a
   
 - 📈 Matplotlib
 
+
 --- 
+
 
 ## How to Run
 1. Download or clone this repository.  
