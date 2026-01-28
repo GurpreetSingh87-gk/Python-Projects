@@ -78,5 +78,5 @@ Monthly Expense Tracker is a Python expense tracker that includes expense data a
 2. Open any `.py` file in your preferred IDE (VS Code, IDLE, or PyCharm).  
 3. Run the script using:  
    ```bash
-   python Calculator App.py
+   python filename.py
 
