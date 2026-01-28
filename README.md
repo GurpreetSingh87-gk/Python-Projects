@@ -59,6 +59,16 @@ Monthly Expense Tracker is a Python expense tracker that includes expense data a
   
 - 📈 Matplotlib
 
+---
+
+## Demo Screenshot
+
+<img width="1801" height="780" alt="Image" src="https://github.com/user-attachments/assets/26eea893-6f6f-4923-b2b2-9849bf4d95db" />
+
+<br>
+<br>
+
+<img width="1801" height="780" alt="Image" src="https://github.com/user-attachments/assets/a7239e8e-8572-4cfa-9c37-7bb716adf671" />
 
 --- 
 
