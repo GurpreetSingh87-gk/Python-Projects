@@ -34,7 +34,7 @@ The Calculator app is a simple console-based Python calculator that includes ari
 
 ## 2. 💵 Monthly Expense Tracker
 
-The Monthly Expense Tracker is a python monthly expense tracker it contains data for expenses and data visualization.  
+Monthly Expense Tracker is a Python expense tracker that includes expense data and data visualization for visual presentation.
 
 ## Features
 
