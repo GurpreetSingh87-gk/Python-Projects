@@ -33,7 +33,12 @@ The Calculator app is a simple console-based Python calculator that includes ari
 
 ## Demo Screenshot
 
-<img width="1801" height="594" alt="Image" src="https://github.com/user-attachments/assets/907a2152-41cc-4922-8eaa-1056476c1e7d" />
+<img width="840" height="877" alt="Image" src="https://github.com/user-attachments/assets/3873764f-2309-417a-bce8-8f0c9ac395ae" />
+
+<br>
+<br>
+
+<img width="840" height="877" alt="Image" src="https://github.com/user-attachments/assets/8458fc07-e9f8-4af5-8b52-bf6d7a8f5072" />
 
 ---
 
