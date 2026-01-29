@@ -8,7 +8,7 @@ using core python codes and libraries.
 
 ## 1. 📠 Calculator App 
 
-The Calculator app is a simple console-based Python calculator that includes arithmetic calculations.
+The Calculator app is python based calculator that includes arithmetic calculations.
 
 ## Features
 
@@ -33,15 +33,14 @@ The Calculator app is a simple console-based Python calculator that includes ari
 
 ## Demo Screenshot
 
-<img width="840" height="877" alt="Image" src="https://github.com/user-attachments/assets/3873764f-2309-417a-bce8-8f0c9ac395ae" />
+<img width="1801" height="862" alt="Image" src="https://github.com/user-attachments/assets/ceca4bb2-f1bb-4270-8145-99ad0d076d69" />
 
 <br>
 <br>
 
-<img width="840" height="877" alt="Image" src="https://github.com/user-attachments/assets/8458fc07-e9f8-4af5-8b52-bf6d7a8f5072" />
+<img width="1801" height="862" alt="Image" src="https://github.com/user-attachments/assets/874aa8e8-a24b-4672-9ee0-b5482bea04e5" />
 
 ---
-
 
 ## 2. 💵 Monthly Expense Tracker
 
