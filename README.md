@@ -8,33 +8,33 @@ using core python codes and libraries.
 
 ## 1. 📠 Calculator App 
 
-The Calculator app is GUI (Graphical User Interface) based calculator that includes arithmetic calculations.
+The Calculator app is GUI (Graphical User Interface) Tkinter based calculator that includes arithmetic calculations.
 
 ## Features
 
 The Calculator app code is divided into two parts first contains functionality of calculations and second design of whole caculator. 
 
-**Functionality of Calculations:-** I have created separate sections that deals with different parts of calculator app such as:
+**Functionality of Calculations :-** I have created separate sections that deals with different parts of calculator app such as:
 
-  - **Input Function:-** It takes inputs that user put numbers to calculate them.
+  - **Input Function :** It takes inputs that user put numbers to calculate them.
   
-  - **Clear Input Function:-** It removes all calculations that were entered as input.
+  - **Clear Input Function :** It removes all calculations that were entered as input.
   
-  - **Cut Input Function:-** Just like a mobile calculator, the cut button deletes numbers one by one as per the user's wish.
+  - **Cut Input Function :** Just like a mobile calculator, the cut button deletes numbers one by one as per the user's wish.
   
-  - **CE Input Function:-** CE button turns every calculation as zero.
+  - **CE Input Function :** CE button turns every calculation as zero.
 
-  - **Function to Calculate Result:-** This functions shows the result of calculations. If user puts right input then calculator will insert or delete input. If user puts                                           wrong inputs then calculator will show error.  
+  - **Function to Calculate Result :** This functions shows the result of calculations. If user puts right input then calculator will insert or delete input. If user puts       wrong inputs then calculator will show error.  
 
-**Design of Calculator:-** It contains functions that designs the whole calculator such as button's size, entry input etc.
+**Design of Calculator :-** It contains functions that designs the whole calculator such as button's size, entry input etc.
 
-  - **Main Window:-** I have imported Tkinter (Python Library) to build GUI (Graphical User Interface) Window.
+  - **Main Window :** I have imported Tkinter (Python Library) to build GUI (Graphical User Interface) Window.
 
-  - **Entry Widget:-** It is entry input section where all calculations appears.
+  - **Entry Widget :** It is entry input section where all calculations appears.
 
-  - **Button Frame:-** I have write numbers in list that will work as keyboard.
+  - **Button Frame :** I have write numbers in list that will work as keyboard.
 
-  - **Buttons:-** It contains design of buttons, font style, and padding etc. 
+  - **Buttons :** It contains design of buttons, font style, and padding etc. 
 
 ## Technologies
 
@@ -55,7 +55,44 @@ The Calculator app code is divided into two parts first contains functionality o
 
 ---
 
-## 2. 💵 Monthly Expense Tracker
+## 2. 📝 Login Form
+
+The Login Form is GUI Tkinter based login form that accepts user information as input. It has several features such as:
+
+## Features
+
+I have created the login form using Customtkinter (Python library). The code of login form contains separate parts for each function such as:
+
+  - **Main GUI Window**
+
+  - **Login Label**
+
+  - **Gray Background Frame Container**
+
+  - **Username Label and Entry Widget**
+
+  - **Password Label and Entry Widget**
+
+  - **Email Id Label and Entry Widget**
+
+  - **Send Button**
+
+  - **Sign Up Link**
+
+## Technologies
+
+- 🐍 Python
+
+- 🖼️ Tkinter
+
+---
+
+## Demo Screenshot
+
+
+---
+
+## 3. 💵 Monthly Expense Tracker
 
 Monthly Expense Tracker is a Python expense tracker that includes expense data and data visualization for visual presentation.
 
