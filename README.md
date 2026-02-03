@@ -14,6 +14,7 @@ The Calculator app is GUI (Graphical User Interface) Tkinter based calculator th
 
 The Calculator app code is divided into two parts first contains functionality of calculations and second design of whole caculator. 
 
+
 **Functionality of Calculations :-** I have created separate sections that deals with different parts of calculator app such as:
 
   - **Input Function :** It takes inputs that user put numbers to calculate them.
@@ -26,6 +27,7 @@ The Calculator app code is divided into two parts first contains functionality o
 
   - **Function to Calculate Result :** This functions shows the result of calculations. If user puts right input then calculator will insert or delete input. If user puts       wrong inputs then calculator will show error.  
 
+
 **Design of Calculator :-** It contains functions that designs the whole calculator such as button's size, entry input etc.
 
   - **Main Window :** I have imported Tkinter (Python Library) to build GUI (Graphical User Interface) Window.
@@ -35,6 +37,7 @@ The Calculator app code is divided into two parts first contains functionality o
   - **Button Frame :** I have write numbers in list that will work as keyboard.
 
   - **Buttons :** It contains design of buttons, font style, and padding etc. 
+
 
 ## Technologies
 
@@ -85,10 +88,13 @@ I have created the login form using Customtkinter (Python library). The code of 
 
 - 🖼️ Tkinter
 
+- 📲 Customtkinter
+
 ---
 
 ## Demo Screenshot
 
+<img width="1801" height="974" alt="Image" src="https://github.com/user-attachments/assets/92d611b3-0590-4237-8383-a7448c6c4451" />
 
 ---
 
