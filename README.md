@@ -94,7 +94,7 @@ I have created the login form using Customtkinter (Python library). The code of 
 
 ## Demo Screenshot
 
-<img width="1801" height="974" alt="Image" src="https://github.com/user-attachments/assets/92d611b3-0590-4237-8383-a7448c6c4451" />
+<img width="1894" height="968" alt="Image" src="https://github.com/user-attachments/assets/c0eff6a0-6f3d-46ad-8800-e341442d91b0" />
 
 ---
 
