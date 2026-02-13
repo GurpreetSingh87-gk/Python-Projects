@@ -6,7 +6,47 @@ using core python codes and libraries.
 ---
 
 
-## 1. 📠 Calculator App 
+## 1. 📝 Login Form
+
+The Login Form is GUI Tkinter based login form that accepts user information as input. It has several features such as:
+
+## Features
+
+I have created the login form using Customtkinter (Python library). The code of login form contains separate parts for each function such as:
+
+  - **Main GUI Window**
+
+  - **Login Label**
+
+  - **Gray Background Frame Container**
+
+  - **Username Label and Entry Widget**
+
+  - **Password Label and Entry Widget**
+
+  - **Email Id Label and Entry Widget**
+
+  - **Send Button**
+
+  - **Sign Up Link**
+
+## Technologies
+
+- 🐍 Python
+
+- 🖼️ Tkinter
+
+- 📲 Customtkinter
+
+---
+
+## Demo Screenshot
+
+
+
+
+
+## 2. 📠 Calculator App 
 
 The Calculator app is GUI (Graphical User Interface) Tkinter based calculator that includes arithmetic calculations.
 
@@ -55,46 +95,6 @@ The Calculator app code is divided into two parts first contains functionality o
 <br>
 
 <img width="1801" height="862" alt="Image" src="https://github.com/user-attachments/assets/874aa8e8-a24b-4672-9ee0-b5482bea04e5" />
-
----
-
-## 2. 📝 Login Form
-
-The Login Form is GUI Tkinter based login form that accepts user information as input. It has several features such as:
-
-## Features
-
-I have created the login form using Customtkinter (Python library). The code of login form contains separate parts for each function such as:
-
-  - **Main GUI Window**
-
-  - **Login Label**
-
-  - **Gray Background Frame Container**
-
-  - **Username Label and Entry Widget**
-
-  - **Password Label and Entry Widget**
-
-  - **Email Id Label and Entry Widget**
-
-  - **Send Button**
-
-  - **Sign Up Link**
-
-## Technologies
-
-- 🐍 Python
-
-- 🖼️ Tkinter
-
-- 📲 Customtkinter
-
----
-
-## Demo Screenshot
-
-<img width="1894" height="968" alt="Image" src="https://github.com/user-attachments/assets/c0eff6a0-6f3d-46ad-8800-e341442d91b0" />
 
 ---
 
