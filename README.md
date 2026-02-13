@@ -16,35 +16,41 @@ I have created the login form using Customtkinter (Python library). The code of 
 
   - **Main GUI Window**
 
-  - **Login Label**
+  - **Sign in Label**
 
-  - **Gray Background Frame Container**
+  - **Modern Style Username and Password Entry Widget**
 
-  - **Username Label and Entry Widget**
+  - **Hide Password Button**
 
-  - **Password Label and Entry Widget**
+  - **Error Handling**
 
-  - **Email Id Label and Entry Widget**
+  - **Social Media Buttons**
 
   - **Send Button**
 
-  - **Sign Up Link**
+  - **Sign In Link**
 
 ## Technologies
 
 - 🐍 Python
 
-- 🖼️ Tkinter
+- 🪟 Tkinter
 
 - 📲 Customtkinter
+
+- 📩 Messagebox
+
+- 🖼️ PIL (Pillow)
+
+- 🌐 Web browser 
 
 ---
 
 ## Demo Screenshot
 
+<img width="1719" height="863" alt="Image" src="https://github.com/user-attachments/assets/2113c72d-b1a4-4c75-b863-876d64759f64" />
 
-
-
+---
 
 ## 2. 📠 Calculator App 
 
