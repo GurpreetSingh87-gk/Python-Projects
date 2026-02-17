@@ -5,7 +5,6 @@ using core python codes and libraries.
 
 ---
 
-
 ## 1. 📝 Login Form
 
 The Login Form is GUI Tkinter based login form that accepts user information as input. It has several features such as:
@@ -46,7 +45,7 @@ I have created the login form using Customtkinter (Python library). The code of 
 
 ---
 
-## Demo Screenshot
+## Screenshot
 
 <img width="1719" height="863" alt="Image" src="https://github.com/user-attachments/assets/2113c72d-b1a4-4c75-b863-876d64759f64" />
 
@@ -71,7 +70,8 @@ The Calculator app code is divided into two parts first contains functionality o
   
   - **CE Input Function :** CE button turns every calculation as zero.
 
-  - **Function to Calculate Result :** This functions shows the result of calculations. If user puts right input then calculator will insert or delete input. If user puts       wrong inputs then calculator will show error.  
+  - **Function to Calculate Result :** This functions shows the result of calculations. If user puts right input then calculator will insert or delete input.
+    If user puts wrong inputs then calculator will show error.  
 
 
 **Design of Calculator :-** It contains functions that designs the whole calculator such as button's size, entry input etc.
@@ -87,47 +87,94 @@ The Calculator app code is divided into two parts first contains functionality o
 
 ## Technologies
 
-- 🐍 Python
+  - 🐍 Python
 
-- 🖼️ Tkinter
+  - 🖼️ Tkinter
 
 ---
 
-## Demo Screenshot
+## Screenshot
 
 <img width="1801" height="862" alt="Image" src="https://github.com/user-attachments/assets/ceca4bb2-f1bb-4270-8145-99ad0d076d69" />
 
-<br>
-<br>
+---
 
-<img width="1801" height="862" alt="Image" src="https://github.com/user-attachments/assets/874aa8e8-a24b-4672-9ee0-b5482bea04e5" />
+## 3. 🌤️ Weather App 
+
+The Weather App is a Python based desktop application that provides real-time weather information using a weather API. It features a clean graphical user interface
+built with CustomTkinter and dynamically updates weather images based on weather conditions.
+
+## Features
+
+  - **Real-time Weather Data Rretrieval using Weather API Key From OepnWeather.** 
+
+  - **Displays Temperature, Condition, City name, Date and Time.**
+
+  - **Dynamically Image Changing based on weather condition.**
+
+  - **Modern Card Style Weather GUI.**
+
+  - **City based weather search.** 
+
+  - **Displays Humidity, Wind Speed, Visibility.**
+
+  - **Weather Icons for better understanding.** 
+    
+  
+## Technologies Used
+
+  - 🐍 Python
+
+  - 🖼️ Tkinter
+
+  - 📲 CustomTkinter
+
+  - 🖼️ PIL (Pillow)
+
+  - 🕒 DateTime
+
+  - 📩 Messagebox
+
+  - 🗺️ TimezoneFinder
+
+  - 📝 Requests
+
+  - 🌄 CustomTkinter CTkImage
+
+  - 🌈 OpenWeather API
 
 ---
 
-## 3. 💵 Monthly Expense Tracker
+## Screenshot
+
+
+
+---
+
+## 4. 💵 Monthly Expense Tracker
 
 Monthly Expense Tracker is a Python expense tracker that includes expense data and data visualization for visual presentation.
 
 ## Features
 
-- **Input Monthly Expenses**
+  - **Input Monthly Expenses**
 
-- **Pie Chart Visualization**
+  - **Pie Chart Visualization**
 
-- **Bar Chart Visualization**
+  - **Bar Chart Visualization**
 
-- **Total Expense Calculation**
+  - **Total Expense Calculation**
 
 
 ## Technologies
 
-- 🐍 Python
+  - 🐍 Python
   
-- 📈 Matplotlib
+  - 📈 Matplotlib
 
 ---
 
-## Demo Screenshot
+## Screenshot
 
 <img width="1801" height="780" alt="Image" src="https://github.com/user-attachments/assets/26eea893-6f6f-4923-b2b2-9849bf4d95db" />
 
@@ -138,8 +185,8 @@ Monthly Expense Tracker is a Python expense tracker that includes expense data a
 
 --- 
 
-
 ## How to Run
+
 1. Download or clone this repository.  
 2. Open any `.py` file in your preferred IDE (VS Code, IDLE, or PyCharm).  
 3. Run the script using:  
