@@ -47,7 +47,7 @@ I have created the login form using Customtkinter (Python library). The code of 
 
 ## Screenshot
 
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/2113c72d-b1a4-4c75-b863-876d64759f64" />
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/bd7a2029-68cb-41cd-9e76-f0d539479059" />
 
 ---
 
