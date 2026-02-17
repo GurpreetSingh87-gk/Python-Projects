@@ -47,7 +47,7 @@ I have created the login form using Customtkinter (Python library). The code of 
 
 ## Screenshot
 
-<img width="1719" height="863" alt="Image" src="https://github.com/user-attachments/assets/2113c72d-b1a4-4c75-b863-876d64759f64" />
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/2113c72d-b1a4-4c75-b863-876d64759f64" />
 
 ---
 
@@ -95,7 +95,7 @@ The Calculator app code is divided into two parts first contains functionality o
 
 ## Screenshot
 
-<img width="1801" height="862" alt="Image" src="https://github.com/user-attachments/assets/ceca4bb2-f1bb-4270-8145-99ad0d076d69" />
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/ceca4bb2-f1bb-4270-8145-99ad0d076d69" />
 
 ---
 
@@ -147,7 +147,7 @@ built with CustomTkinter and dynamically updates weather images based on weather
 
 ## Screenshot
 
-
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/f5a7dd6b-6fa9-44b2-95b4-ce2c5d3852e4" />
 
 ---
 
@@ -176,12 +176,12 @@ Monthly Expense Tracker is a Python expense tracker that includes expense data a
 
 ## Screenshot
 
-<img width="1801" height="780" alt="Image" src="https://github.com/user-attachments/assets/26eea893-6f6f-4923-b2b2-9849bf4d95db" />
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/26eea893-6f6f-4923-b2b2-9849bf4d95db" />
 
 <br>
 <br>
 
-<img width="1801" height="780" alt="Image" src="https://github.com/user-attachments/assets/a7239e8e-8572-4cfa-9c37-7bb716adf671" />
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/a7239e8e-8572-4cfa-9c37-7bb716adf671" />
 
 --- 
 
