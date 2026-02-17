@@ -51,6 +51,19 @@ I have created the login form using Customtkinter (Python library). The code of 
 
 ---
 
+## Install Instructions
+
+Required python libraries need to be installed if not installed:
+
+```bash
+pip install customtkinter
+pip install pillow
+pip install messagebox
+pip install web-browser
+```
+
+
+---
 ## 2. 📠 Calculator App 
 
 The Calculator app is GUI (Graphical User Interface) Tkinter based calculator that includes arithmetic calculations.
@@ -147,7 +160,22 @@ built with CustomTkinter and dynamically updates weather images based on weather
 
 ## Screenshot
 
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/f5a7dd6b-6fa9-44b2-95b4-ce2c5d3852e4" />
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/36973a59-0795-4650-bd10-dc9f4ea47ecc"/>
+
+---
+
+## Install Instructions
+
+Required python libraries need to be installed if not installed:
+
+```bash
+pip install customtkinter
+pip install pillow
+pip install timezonefinder
+pip install messagebox
+pip install DateTime
+pip install requests
+```
 
 ---
 
@@ -164,7 +192,6 @@ Monthly Expense Tracker is a Python expense tracker that includes expense data a
   - **Bar Chart Visualization**
 
   - **Total Expense Calculation**
-
 
 ## Technologies
 
@@ -185,7 +212,7 @@ Monthly Expense Tracker is a Python expense tracker that includes expense data a
 
 --- 
 
-## How to Run
+## ⚙️ How to Run
 
 1. Download or clone this repository.  
 2. Open any `.py` file in your preferred IDE (VS Code, IDLE, or PyCharm).  
