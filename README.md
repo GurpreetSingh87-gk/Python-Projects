@@ -160,7 +160,7 @@ built with CustomTkinter and dynamically updates weather images based on weather
 
 ## Screenshot
 
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/36973a59-0795-4650-bd10-dc9f4ea47ecc"/>
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/bd63cd5b-6b99-4366-91a0-a75851b68dfd" />
 
 ---
 
