@@ -5,66 +5,7 @@ using core python codes and libraries.
 
 ---
 
-## 1. 📝 Login Form
-
-The Login Form is GUI Tkinter based login form that accepts user information as input. It has several features such as:
-
-## Features
-
-I have created the login form using Customtkinter (Python library). The code of login form contains separate parts for each function such as:
-
-  - **Main GUI Window**
-
-  - **Sign in Label**
-
-  - **Modern Style Username and Password Entry Widget**
-
-  - **Hide Password Button**
-
-  - **Error Handling**
-
-  - **Social Media Buttons**
-
-  - **Send Button**
-
-  - **Sign In Link**
-
-## Technologies
-
-- 🐍 Python
-
-- 🪟 Tkinter
-
-- 📲 Customtkinter
-
-- 📩 Messagebox
-
-- 🖼️ PIL (Pillow)
-
-- 🌐 Web browser 
-
----
-
-## Screenshot
-
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/bd7a2029-68cb-41cd-9e76-f0d539479059" />
-
----
-
-## Install Instructions
-
-Required python libraries need to be installed if not installed:
-
-```bash
-pip install customtkinter
-pip install pillow
-pip install messagebox
-pip install web-browser
-```
-
-
----
-## 2. 📠 Calculator App 
+## 1. 📠 Calculator App 
 
 The Calculator app is GUI (Graphical User Interface) Tkinter based calculator that includes arithmetic calculations.
 
@@ -112,7 +53,7 @@ The Calculator app code is divided into two parts first contains functionality o
 
 ---
 
-## 3. 🌤️ Weather App 
+## 2. 🌤️ Weather App 
 
 The Weather App is a Python based desktop application that provides real-time weather information using a weather API. It features a clean graphical user interface
 built with CustomTkinter and dynamically updates weather images based on weather conditions.
@@ -179,7 +120,7 @@ pip install requests
 
 ---
 
-## 4. 💵 Monthly Expense Tracker
+## 3. 💵 Monthly Expense Tracker
 
 Monthly Expense Tracker is a Python expense tracker that includes expense data and data visualization for visual presentation.
 
