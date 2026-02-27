@@ -14,28 +14,31 @@ The Calculator app is GUI (Graphical User Interface) Tkinter based calculator th
 <p align="justify">
 The Calculator app code is divided into two parts first contains functionality of calculations and second design of whole caculator. 
 
-**Functionality of Calculations :-** I have created separate sections that deals with different parts of calculator app such as:
-
-  - **Input Function :** It takes inputs that user put numbers to calculate them.
+  ### Functionality of Calculations:- 
   
-  - **Clear Input Function :** It removes all calculations that were entered as input.
+  I have created separate sections that deals with different parts of calculator app such as:
+
+- **Input Function :** It takes inputs that user put numbers to calculate them.
+
+- **Clear Input Function :** It removes all calculations that were entered as input.
   
-  - **Cut Input Function :** Just like a mobile calculator, the cut button deletes numbers one by one as per the user's wish.
+- **Cut Input Function :** Just like a mobile calculator, the cut button deletes numbers one by one as per the user's wish.
   
-  - **CE Input Function :** CE button turns every calculation as zero.
+- **CE Input Function :** CE button turns every calculation as zero.
 
-  - **Function to Calculate Result :** This functions shows the result of calculations. If user puts right input then calculator will insert or delete input. If user puts wrong inputs then calculator will show error.  
+- **Function to Calculate Result :** This functions shows the result of calculations. If user puts right input then calculator will insert or delete input. If user puts wrong inputs then calculator will show error.  
 
+### Design of Calculator:-
 
-**Design of Calculator :-** It contains functions that designs the whole calculator such as button's size, entry input etc.
+It contains functions that designs the whole calculator such as button's size, entry input etc.
 
-  - **Main Window :** I have imported Tkinter (Python Library) to build GUI (Graphical User Interface) Window.
+- **Main Window :** I have imported Tkinter (Python Library) to build GUI (Graphical User Interface) Window.
 
-  - **Entry Widget :** It is entry input section where all calculations appears.
+- **Entry Widget :** It is entry input section where all calculations appears.
 
-  - **Button Frame :** I have write numbers in list that will work as keyboard.
+- **Button Frame :** I have write numbers in list that will work as keyboard.
 
-  - **Buttons :** It contains design of buttons, font style, and padding etc. 
+- **Buttons :** It contains design of buttons, font style, and padding etc. 
 </p>
 
 ## Technologies
