@@ -11,8 +11,8 @@ The Calculator app is GUI (Graphical User Interface) Tkinter based calculator th
 
 ## Features
 
+<p align="justify">
 The Calculator app code is divided into two parts first contains functionality of calculations and second design of whole caculator. 
-
 
 **Functionality of Calculations :-** I have created separate sections that deals with different parts of calculator app such as:
 
@@ -24,8 +24,7 @@ The Calculator app code is divided into two parts first contains functionality o
   
   - **CE Input Function :** CE button turns every calculation as zero.
 
-  - **Function to Calculate Result :** This functions shows the result of calculations. If user puts right input then calculator will insert or delete input.
-    If user puts wrong inputs then calculator will show error.  
+  - **Function to Calculate Result :** This functions shows the result of calculations. If user puts right input then calculator will insert or delete input. If user puts wrong inputs then calculator will show error.  
 
 
 **Design of Calculator :-** It contains functions that designs the whole calculator such as button's size, entry input etc.
@@ -37,7 +36,7 @@ The Calculator app code is divided into two parts first contains functionality o
   - **Button Frame :** I have write numbers in list that will work as keyboard.
 
   - **Buttons :** It contains design of buttons, font style, and padding etc. 
-
+</p>
 
 ## Technologies
 
