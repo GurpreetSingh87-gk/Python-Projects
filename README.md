@@ -1,6 +1,6 @@
 # 🐍 Python Projects
 
-Python Projects repository contains Beginner Levele Python Projects that helps students to create simple and creative project 
+Python Projects repository contains Beginner Level Python Projects that helps students to create simple and creative project 
 using core python codes and libraries.
 
 ---
