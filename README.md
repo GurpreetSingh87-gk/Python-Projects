@@ -51,7 +51,7 @@ It contains functions that designs the whole calculator such as button's size, e
 
 ## Screenshot
 
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/ceca4bb2-f1bb-4270-8145-99ad0d076d69" />
+<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/ceca4bb2-f1bb-4270-8145-99ad0d076d69"/>
 
 ---
 
@@ -103,7 +103,7 @@ built with CustomTkinter and dynamically updates weather images based on weather
 
 ## Screenshot
 
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/bd63cd5b-6b99-4366-91a0-a75851b68dfd" />
+<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/bd63cd5b-6b99-4366-91a0-a75851b68dfd"/>
 
 ---
 
@@ -146,12 +146,12 @@ Monthly Expense Tracker is a Python expense tracker that includes expense data a
 
 ## Screenshot
 
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/26eea893-6f6f-4923-b2b2-9849bf4d95db" />
+<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/26eea893-6f6f-4923-b2b2-9849bf4d95db"/>
 
 <br>
 <br>
 
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/a7239e8e-8572-4cfa-9c37-7bb716adf671" />
+<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/a7239e8e-8572-4cfa-9c37-7bb716adf671"/>
 
 --- 
 
