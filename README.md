@@ -62,7 +62,7 @@ built with CustomTkinter and dynamically updates weather images based on weather
 
 ## Features
 
-  - **Real-time Weather Data Rretrieval using Weather API Key From OepnWeather.** 
+  - **Real-time Weather Data Rretrieval using Weather API Key From OpenWeather.** 
 
   - **Displays Temperature, Condition, City name, Date and Time.**
 
